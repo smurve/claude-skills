@@ -1,0 +1,39 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# macOS
+.DS_Store
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Testing
+coverage/
+*.profdata
+
+# Documentation
+/doc/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+/dist/
+/build/

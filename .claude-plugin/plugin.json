@@ -1,0 +1,9 @@
+{
+  "name": "rust-architect",
+  "version": "1.0.0",
+  "description": "Rust architecture and design patterns skill for Claude Code - creates comprehensive project documentation, ADRs, guardrails, and handoff docs",
+  "author": "SuperClaude Framework",
+  "repository": "https://github.com/nanlong/rust-architect",
+  "license": "MIT",
+  "skills": ["skills/rust-architect"]
+}
